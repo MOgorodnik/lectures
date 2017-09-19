@@ -36,6 +36,16 @@
 * [https://tinypng.com/](https://tinypng.com/)
 * [http://www.jpegmini.com/](http://www.jpegmini.com/)
 
+## Cheat sheet
+
+* [https://docs.emmet.io/cheat-sheet/](https://docs.emmet.io/cheat-sheet/)
+* [http://www.customguide.com/cheat\_sheets/windows-10-quick-reference.pdf](http://www.customguide.com/cheat_sheets/windows-10-quick-reference.pdf)
+
+## Photoshop
+
+* [Photoshop для html‑верстальщика](http://nicothin.pro/page/photoshop-dlja-html-verstalshhika)
+* [ускоряем нарезку](http://jnet.kz/httml/2014/03/13/eksport-sloev-iz-photoshop-v-odin-klik.html)
+
 
 
 
