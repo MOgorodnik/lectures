@@ -92,5 +92,23 @@ tag.className{property: value;}
 tag#idName{property: value;}
 ```
 
+* Контекстные селекторы
+
+```
+selector1 selector2{property: value;}
+```
+
+* Соседние селекторы
+
+```
+selector1 + selector2{property: value;}
+```
+
+* Дочерние селекторы
+
+```
+selector1 > selector2{property: value;}
+```
+
 
 
