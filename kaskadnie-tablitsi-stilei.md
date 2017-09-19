@@ -78,5 +78,12 @@
 Селектор[атрибут]{свойство: значение;...}
 ```
 
+* Селекторы классов
+
+```
+.className{property: value;}
+tag.className{property: value;}
+```
+
 
 
