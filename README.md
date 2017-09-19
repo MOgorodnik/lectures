@@ -1,3 +1,6 @@
-# My Awesome Book
+# My Awesome Book for web akademy lessons
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+These articles are written to teach students the basics of web development.
+
+I ask to forgive possible flaws, this is my first experience of teaching on this topic.
+
