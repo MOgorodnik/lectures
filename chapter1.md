@@ -7,16 +7,19 @@
 * [Unicorn - Совмещенный валидатор W3C](https://validator.w3.org/unicorn/?ucn_lang=ru)
 * [Валидатор HTML](https://validator.w3.org/) 
 * [Валидатор CSS](https://jigsaw.w3.org/css-validator/)
+* [Playground-1](https://codepen.io), [Playground-2](https://jsfiddle.net/).
+* [Email encoder](http://wbwip.com/wbw/emailencoder.html)
 
 ## Tutorials
 
 * [webref.ru](https://webref.ru/)\(Улучшенная и переработанная [htmlbook](http://htmlbook.ru/)\)
+* [tutorialspoint.com](https://www.tutorialspoint.com/web_development_tutorials.htm)
 
 ## Fonts
 
 * [Common fonts to all versions of Windows & Mac equivalents](http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html)\(шрифты общие для всех версий Windows и их заменители Mac\)
 
-## Где взять хорошие веб-шрифты?\([resource](https://habrahabr.ru/company/adv/blog/184864/)\)
+### Где взять хорошие веб-шрифты?\([resource](https://habrahabr.ru/company/adv/blog/184864/)\)
 
 * [Google Fonts](http://www.google.com/fonts/) — Каталог свободных шрифтов
 * [Fontsquirrel](http://www.fontsquirrel.com/) — известный конвертер и каталог веб-шрифтов
@@ -25,6 +28,15 @@
 * [Typekit](https://typekit.com/) — сервис для аренды шрифтов от Adobe
 * [Typecast](http://typecast.com/) — вышеупомянутый магазин с сервисом тестирования
 * [WebFont.ru](#) — еще один полезный ресурс.
+
+## Image optimization
+
+* [General article](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=ru)
+* [http://optimizilla.com/](#)
+* [https://tinypng.com/](https://tinypng.com/)
+* [http://www.jpegmini.com/](http://www.jpegmini.com/)
+
+
 
 
 
