@@ -110,5 +110,11 @@ selector1 + selector2{property: value;}
 selector1 > selector2{property: value;}
 ```
 
+## Псевдоклассы
+
+[All pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
+
+## Псевдоэлементы
+
 
 
