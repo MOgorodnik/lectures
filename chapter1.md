@@ -9,6 +9,7 @@
 * [Валидатор CSS](https://jigsaw.w3.org/css-validator/)
 * [Playground-1](https://codepen.io), [Playground-2](https://jsfiddle.net/).
 * [Email encoder](http://wbwip.com/wbw/emailencoder.html)
+* [Специальные символы HTML](https://htmlweb.ru/html/symbols.php)
 
 ## Tutorials
 
@@ -45,8 +46,6 @@
 
 * [Photoshop для html‑верстальщика](http://nicothin.pro/page/photoshop-dlja-html-verstalshhika)
 * [ускоряем нарезку](http://jnet.kz/httml/2014/03/13/eksport-sloev-iz-photoshop-v-odin-klik.html)
-
-
 
 
 
