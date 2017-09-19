@@ -85,5 +85,12 @@
 tag.className{property: value;}
 ```
 
+* Селекторы id
+
+```
+#idName{property: value;}
+tag#idName{property: value;}
+```
+
 
 
