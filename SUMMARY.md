@@ -5,4 +5,5 @@
 * [Каскадные таблицы стилей](kaskadnie-tablitsi-stilei.md)
 * [HasLayout](haslayout.md)
 * [Float-ы](float-i.md)
+* [Именование классов](imenovanie-klassov.md)
 
