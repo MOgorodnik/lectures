@@ -47,6 +47,8 @@
 
 * [Photoshop для html‑верстальщика](http://nicothin.pro/page/photoshop-dlja-html-verstalshhika)
 * [ускоряем нарезку](http://jnet.kz/httml/2014/03/13/eksport-sloev-iz-photoshop-v-odin-klik.html)
+* [https://assets.adobe.com/link/b8ecd6b6-94ac-468c-9cfa-b2c666c81a6c?section=extract](https://assets.adobe.com/link/b8ecd6b6-94ac-468c-9cfa-b2c666c81a6c?section=extract)
+* [https://avocode.com/](https://avocode.com/)
 
 
 
