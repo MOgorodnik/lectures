@@ -17,6 +17,11 @@
 * [webref.ru](https://webref.ru/)\(Улучшенная и переработанная [htmlbook](http://htmlbook.ru/)\)
 * [tutorialspoint.com](https://www.tutorialspoint.com/web_development_tutorials.htm)
 
+## Reset
+
+* [normalize.css](http://necolas.github.io/normalize.css/)
+* [meyer css reset](https://meyerweb.com/eric/tools/css/reset/)
+
 ## Fonts
 
 * [Common fonts to all versions of Windows & Mac equivalents](http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html)\(шрифты общие для всех версий Windows и их заменители Mac\)
