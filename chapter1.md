@@ -2,7 +2,7 @@
 
 ---
 
-## Generalizedddd
+## Generalized
 
 * [caniuse.com](http://caniuse.com/)
 * [Unicorn - Совмещенный валидатор W3C](https://validator.w3.org/unicorn/?ucn_lang=ru)
