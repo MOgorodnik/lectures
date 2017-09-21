@@ -6,4 +6,5 @@
 * [HasLayout](haslayout.md)
 * [Float-ы](float-i.md)
 * [Именование классов](imenovanie-klassov.md)
+* [Test page](test-page.md)
 
