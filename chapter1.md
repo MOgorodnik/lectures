@@ -19,7 +19,7 @@
 
 ## Tutorials
 
-* [webref.ru](https://webref.ru/)\(Улучшенная и переработанная [htmlbook](http://htmlbook.ru/)\)
+* [webref.ru](https://webref.ru/)\(Улучшенная и переработанная [htmlbook](http://htmlbook.ru/)\) Пользуйтесь той, которую посчитаете для себя наиболее подходящей и структурированной.
 * [tutorialspoint.com](https://www.tutorialspoint.com/web_development_tutorials.htm)
 
 ## Reset
