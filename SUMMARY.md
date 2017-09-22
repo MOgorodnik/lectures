@@ -7,4 +7,5 @@
 * [HasLayout](haslayout.md)
 * [Float-ы](float-i.md)
 * [Именование классов](imenovanie-klassov.md)
+* [Именование графики](imenovanie-grafiki.md)
 
