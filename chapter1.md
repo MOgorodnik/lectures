@@ -15,6 +15,7 @@
 * [Playground-1](https://codepen.io), [Playground-2](https://jsfiddle.net/).
 * [Email encoder](http://wbwip.com/wbw/emailencoder.html)
 * [Специальные символы HTML](https://htmlweb.ru/html/symbols.php)
+* [Быстрая вставка картинок](https://placekitten.com/)
 
 ## Tutorials
 
