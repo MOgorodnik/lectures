@@ -229,12 +229,26 @@ Ter &lt;form&gt; контейнер для формы размещенной н�
 ...
 
 <script src="https://www.cse.ust.hk/~rossiter/dating_web_site.js"></script>
-
 ```
 
-
-
 ///
+
+```
+/* Placeholder reset style */
+::-webkit-input-placeholder { /* WebKit browsers */
+	color: #5c5e64;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+	color: #5c5e64;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+	color: #5c5e64;
+	opacity: 1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+	color: #5c5e64;
+}
+```
 
 ///
 
