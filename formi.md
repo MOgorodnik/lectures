@@ -220,6 +220,20 @@ Ter &lt;form&gt; контейнер для формы размещенной н�
 
 ///
 
+**Полезные ссылки и материалы к ДЗ**
+
+[http://html5pattern.com/](http://html5pattern.com/)
+
+```
+<form action="https://ihome.ust.hk/~rossiter/cgi-bin/show_everything.php" method="post" enctype="multipart/form-data" >
+...
+
+<script src="https://www.cse.ust.hk/~rossiter/dating_web_site.js"></script>
+
+```
+
+
+
 ///
 
 ///
