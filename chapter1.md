@@ -80,3 +80,5 @@
 
 [Resizeble text above image](https://codepen.io/MOgorodnik/pen/RLxVdZ)
 
+[Все способы верт выравнивания](https://habrahabr.ru/company/netcracker/blog/277433/) Хабр
+
