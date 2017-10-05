@@ -76,3 +76,5 @@
 
 [Vertical Alignment Elements 02](https://codepen.io/MOgorodnik/pen/gGogGB)
 
+[Alignment elements\[inline, float, flex\]](https://codepen.io/MOgorodnik/pen/qPprqM)
+
