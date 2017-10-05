@@ -74,3 +74,5 @@
 
 [Vertical Alignment Elements 01](https://codepen.io/MOgorodnik/pen/gGoLZo)
 
+[Vertical Alignment Elements 02](https://codepen.io/MOgorodnik/pen/gGogGB)
+
