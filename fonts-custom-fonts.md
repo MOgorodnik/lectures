@@ -151,11 +151,13 @@ h2 em { font-family: "Your italic typeface", Georgia, serif; }
 
 Так как обычно шрифты имеют очень большой объем, целесообразно при генерации отмечать только те символы \(таблицы Unicode\), которые будут использоваться на сайте \(нужно узнавать у клиента\).
 
-//
-
-///
-
 ////
 
+**Полезные ссылки**
 
+[http://www.fontsquirrel.com/](http://www.fontsquirrel.com/)  
+[https://fonts.google.com/](#)  
+[https://developers.google.com/fonts/docs/getting\_started](https://developers.google.com/fonts/docs/getting_started)
+
+////
 
