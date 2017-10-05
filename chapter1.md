@@ -68,7 +68,7 @@
 
 [http://css3generator.com/](http://css3generator.com/)
 
-## Vertical Alignment Page
+## Vertical Alignment
 
 [Vertical Alignment Page](https://codepen.io/MOgorodnik/pen/mBpOxm)
 
