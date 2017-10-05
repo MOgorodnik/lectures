@@ -70,7 +70,7 @@
 
 ## Vertical Alignment Page
 
+[Vertical Alignment Page](https://codepen.io/MOgorodnik/pen/mBpOxm)
 
-
-
+[Vertical Alignment Elements 01](https://codepen.io/MOgorodnik/pen/gGoLZo)
 
