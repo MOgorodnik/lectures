@@ -9,19 +9,19 @@
 ```
 <nav >
     <ul class="nav">
-    
+
         <li class="nav__item">
             <a href="#" class="nav__link">link text</a>
         </li>
-        
+
         <li class="nav__item">
             <a href="#" class="nav__link">link text</a>
         </li>
-        
+
         <li class="nav__item">
             <a href="#" class="nav__link">link with drop</a>
-            
-            /* drop-down list */
+
+            <!-- drop-down list -->
             <ul class="nav__drop drop">
                 <li class="drop__item">
                     <a href="#" class="drop__link">sub link 1</a>
@@ -34,7 +34,7 @@
                 </li>
             </ul>    
         </li>
-        
+
         <li class="nav__item">
             <a href="#" class="nav__link">link text</a>
         </li>
