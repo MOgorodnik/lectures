@@ -27,7 +27,7 @@
                     <a href="#" class="drop__link">sub link 1</a>
                 </li>
                 <li class="drop__item">
-                    <a href="#" class="drop__link">sub link 2</a>
+                    <a href="#" class="drop__link">Long long long long sub link 2</a>
                 </li>
                 <li class="drop__item">
                     <a href="#" class="drop__link">sub link 3</a>
