@@ -60,6 +60,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 ```
 
+Для чего [shrink-to-fit](https://bitsofco.de/ios-safari-and-shrink-to-fit/)?
+
 ![](/assets/Viewport.png)
 
 **layout viewport** - это область на которой размещены все элементы страницы
