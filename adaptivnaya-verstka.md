@@ -1,36 +1,4 @@
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# ` `
-
-```
-<
-meta
-name
-=
-"viewport"
-content
-=
-"width=device-width, initial-scale=1.0"
-><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="viewport" content="width=device-width, initial-scale=1.0">Адаптивная верстка
-```
+# Адаптивная верстка
 
 ---
 
@@ -57,6 +25,10 @@ content
 [http://html5.by/blog/viewport-meta-tag/](http://html5.by/blog/viewport-meta-tag/)
 
 ---
+
+
+
+`<meta name="viewport" content="width=device-width, initial-scale=1.0">`
 
 
 
