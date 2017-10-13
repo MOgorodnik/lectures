@@ -22,6 +22,10 @@
 * [webref.ru](https://webref.ru/)\(Улучшенная и переработанная [htmlbook](http://htmlbook.ru/)\) Пользуйтесь той, которую посчитаете для себя наиболее подходящей и структурированной.
 * [tutorialspoint.com](https://www.tutorialspoint.com/web_development_tutorials.htm)
 
+## Head
+
+[https://wsd.events/2016/11/26/pres/heads-up/\#](https://wsd.events/2016/11/26/pres/heads-up/#)
+
 ## Reset
 
 * [normalize.css](http://necolas.github.io/normalize.css/)
@@ -85,6 +89,4 @@
 ## Menu/Nav
 
 [https://codepen.io/MOgorodnik/pen/aLGERw](https://codepen.io/MOgorodnik/pen/aLGERw)
-
-
 
