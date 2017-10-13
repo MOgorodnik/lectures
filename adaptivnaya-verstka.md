@@ -26,6 +26,8 @@
 
 [http://html5.by/blog/viewport-meta-tag/](http://html5.by/blog/viewport-meta-tag/)
 
+[Разрешения экранов популярных смартфонов](http://myresolutionis.ru/page/smapage.php)
+
 ---
 
 ## Общее
