@@ -54,6 +54,12 @@
 
 `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
 
+или
+
+```
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+```
+
 ![](/assets/Viewport.png)
 
 **layout viewport** - это область на которой размещены все элементы страницы
