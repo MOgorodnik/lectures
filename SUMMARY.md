@@ -12,4 +12,5 @@
 * [Fonts \(custom fonts\)](fonts-custom-fonts.md)
 * [Drop-Down Menu](menunav.md)
 * [Flexbox Layout](display-flex.md)
+* [Адаптивная верстка](adaptivnaya-verstka.md)
 
