@@ -96,17 +96,17 @@ _Реализация логотипа, если он в формате - GIF, P
 
 ```
 .logo {
-	width:100px;
-	height:100px;
-	background:url(../images/logo.png);
-	text-indent:-9999px;
-	overflow:hidden;
-	margin:0;
+    width:100px;
+    height:100px;
+    background:url(../images/logo.png);
+    text-indent:-9999px;
+    overflow:hidden;
+    margin:0;
 }
 .logo a{
-	display:block;
-	height:100%;
-	position:relative;
+    display:block;
+    height:100%;
+    position:relative;
 }
 ```
 
@@ -115,7 +115,13 @@ _Реализация логотипа, если он в формате - GIF, P
 **HTML:**
 
 ```
-1
+<h1>
+    <a href="#" class="logo">some logo text</a>
+</h1>
+
+<h1 class="logo">some logo text</h1>
+
+<strong class="logo">some logo text</strong>
 ```
 
 **CSS:**
@@ -123,8 +129,6 @@ _Реализация логотипа, если он в формате - GIF, P
 ```
 1
 ```
-
-
 
 [Вверх](#основные-элементы-веб-страницы-и-их-реализации)
 
