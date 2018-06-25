@@ -160,7 +160,7 @@ a.logo{
 >
 > &lt;cite&gt;  -   используется для того, чтобы выделить источник цитаты, название произведения или автора цитаты.
 
-**HTML-элемент &lt;blockquote&gt;      
+**HTML-элемент &lt;blockquote&gt;        
 **указывает на то, что заключенный в нем текст является развернутой цитатой.
 
 ```
@@ -176,12 +176,12 @@ a.logo{
 <p>More information can be found in <cite>[ISO-0000]</cite>.</p>
 ```
 
-**HTML-элемент &lt;q&gt;  
+**HTML-элемент &lt;q&gt;    
 **
 
 ```
 <p>In <cite>2001: A Space Odyssey</cite>, Dave asks HAL to open the pod bay door and HAL answers: <q cite="https://www.imdb.com/title/tt0062622/quotes/qt0396921">I'm sorry, Dave. I'm afraid I can't do that.</q></p>
 ```
 
-
+Тут _атрибут_ **cite **- имеет URL, указывающий на исходный документ или сообщение, откуда была взята цитата. Этот атрибут предназначен для того, чтобы сослаться на информацию, объясняющую контекст, или ссылки, из которых была взята цитата. Глобальный атрибут - cite - может быть использован у blockquote & q.
 
