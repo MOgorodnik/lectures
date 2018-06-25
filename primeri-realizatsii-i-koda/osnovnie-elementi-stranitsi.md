@@ -160,12 +160,12 @@ a.logo{
 >
 > &lt;cite&gt;  -   используется для того, чтобы выделить источник цитаты, название произведения или автора цитаты.
 
-**HTML-элемент &lt;blockquote&gt;  
+**HTML-элемент &lt;blockquote&gt;    
 **указывает на то, что заключенный в нем текст является развернутой цитатой.
 
 ```
 <blockquote cite="http://developer.mozilla.org">
-  <p>This is a quotation taken from the Mozilla Developer Center.</p>
+    <p>This is a quotation taken from the Mozilla Developer Center.</p>
 </blockquote>
 
 Тут атрибут cite - имеет URL, указывающий на исходный документ или  сообщение, откуда была взята цитата. Этот атрибут предназначен для того, чтобы сослаться на информацию, объясняющую контекст, или ссылки, из которых была взята цитата.
