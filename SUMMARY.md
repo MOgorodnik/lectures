@@ -14,3 +14,7 @@
 * [Flexbox Layout](display-flex.md)
 * [Адаптивная верстка](adaptivnaya-verstka.md)
 
+## Примеры реализации и кода
+
+* [Основные элементы страницы](primeri-realizatsii-i-koda/osnovnie-elementi-stranitsi.md)
+
