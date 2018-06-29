@@ -29,7 +29,7 @@
 
     <header class="header"></header>
 
-    <main class="main">
+    <main class="main role="main">
         <section class="content"></section>
         <div class="sidebar"></div>
     </main>
