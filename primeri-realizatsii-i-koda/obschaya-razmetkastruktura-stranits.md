@@ -47,15 +47,13 @@
     <header class="header"></header>
 
     <main class="main">
-    
+
         <div class="twocolumns">
-        
             <section class="content"></section>
             <div class="aside"></div>
-            
         </div>
-        
         <div class="sidebar"></div>
+        
     </main>
 
     <footer class="footer"></footer>
