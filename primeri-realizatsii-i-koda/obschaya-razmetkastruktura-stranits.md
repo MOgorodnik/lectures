@@ -12,7 +12,7 @@
 | **.footer** | «подвал» страницы |
 | **.aside \(.aside1, .aside2, ....\)** | Для выделения боковой колонки, которая несет в себе второстепенную дополнительную информацию |
 
-Больше, об этом читайте в статье [ Именование классов](/imenovanie-klassov.md "больше о названиях классов и элементах тут.").
+Больше, об этом, читайте в статье [ Именование классов](/imenovanie-klassov.md "больше о названиях классов и элементах тут.").
 
 > ## Элементы на которых можно использовать **id**:
 >
@@ -22,22 +22,24 @@
 
 ---
 
-### Страница с основной колонкой и боковой уникальной колонкой:
+## Страница с основной колонкой и боковой уникальной колонкой:
 
 ```
 <div class="wrapper">
 
-	<header class="header"></header>
-	
-	<main class="main">
-		<section class="content"></section>
-		<div class="sidebar"></div>
-	</main>
-	
-	<footer class="footer"></footer>
-	
+    <header class="header"></header>
+
+    <main class="main">
+        <section class="content"></section>
+        <div class="sidebar"></div>
+    </main>
+
+    <footer class="footer"></footer>
+
 </div>
 ```
+
+### 
 
 
 
