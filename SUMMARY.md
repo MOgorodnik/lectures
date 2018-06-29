@@ -16,5 +16,6 @@
 
 ## Примеры реализации и кода
 
+* [Общая разметка/структура страниц.](primeri-realizatsii-i-koda/obschaya-razmetkastruktura-stranits.md)
 * [Основные элементы страницы](primeri-realizatsii-i-koda/osnovnie-elementi-stranitsi.md)
 
