@@ -20,7 +20,24 @@
 > * элементы форм, которые связаны с соответствующими label через for/id.
 >   \*\*\*
 
+---
 
+### Страница с основной колонкой и боковой уникальной колонкой:
+
+```
+<div class="wrapper">
+
+	<header class="header"></header>
+	
+	<main class="main">
+		<section class="content"></section>
+		<div class="sidebar"></div>
+	</main>
+	
+	<footer class="footer"></footer>
+	
+</div>
+```
 
 
 
