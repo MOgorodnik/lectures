@@ -83,5 +83,24 @@
 </div>
 ```
 
+## Страница типа LandingPage.
+
+```
+<div class="wrapper">
+    
+    <nav class="nav">_</nav>
+    
+    <header class="section">_</header>
+    <nav class="nav">_</nav>
+    
+    <section class="section">_</section>
+    <section class="section">_</section>
+    <section class="section">_</section>
+    
+    <footer class="footer">...</footer>
+    
+</div>
+```
+
 
 
