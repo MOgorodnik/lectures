@@ -12,7 +12,8 @@
 * [Unicorn - Совмещенный валидатор W3C](https://validator.w3.org/unicorn/?ucn_lang=ru)
 * [Валидатор HTML](https://validator.w3.org/) 
 * [Валидатор CSS](https://jigsaw.w3.org/css-validator/)
-* [Playground-1](https://codepen.io), [Playground-2](https://jsfiddle.net/).
+* "Песочницы":
+ 1) [codepen](https://codepen.io), 2) [jsfiddle](https://jsfiddle.net/), 3) [jsbin](https://http://jsbin.com/).
 * [Email encoder](http://wbwip.com/wbw/emailencoder.html)
 * [Специальные символы HTML](https://htmlweb.ru/html/symbols.php)
 * [Быстрая вставка картинок](https://placekitten.com/)
