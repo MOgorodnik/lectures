@@ -13,10 +13,12 @@
 * [Валидатор HTML](https://validator.w3.org/) 
 * [Валидатор CSS](https://jigsaw.w3.org/css-validator/)
 * "Песочницы":
- 1) [codepen](https://codepen.io), 2) [jsfiddle](https://jsfiddle.net/), 3) [jsbin](https://http://jsbin.com/).
+  1\) [codepen](https://codepen.io), 2\) [jsfiddle](https://jsfiddle.net/), 3\) [jsbin](https://http://jsbin.com/).
 * [Email encoder](http://wbwip.com/wbw/emailencoder.html)
 * [Специальные символы HTML](https://htmlweb.ru/html/symbols.php)
-* [Быстрая вставка картинок](https://placekitten.com/)
+* [Быстрая вставка изображений на страницу](https://placekitten.com/)
+* [htmlshell.com - помогает выбрать начальные элементы html-страницы](/htmlshell.com - помогает выбрать начальные элементы html-страницы "http://htmlshell.com/")
+* [Генератор текста рыбы](https://www.lipsum.com/)
 
 ## Tutorials
 
@@ -45,6 +47,10 @@
 * [Typekit](https://typekit.com/) — сервис для аренды шрифтов от Adobe
 * [Typecast](http://typecast.com/) — вышеупомянутый магазин с сервисом тестирования
 * [WebFont.ru](#) — еще один полезный ресурс.
+
+## Графика для web - изображения, иконки
+
+
 
 ## Image optimization
 
