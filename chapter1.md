@@ -56,8 +56,9 @@
 
 ### Векторная графика - иконки
 
-* От Google 
-* От FontAwesome
+* От [Google - ](https://material.io/tools/icons) Material icons 
+* От [FontAwesome](https://fontawesome.com/)
+* [materialdesignicons](https://materialdesignicons.com/)
 
 ## Image optimization
 
@@ -89,8 +90,8 @@
 * [Быстрая вставка изображений на страницу](https://placekitten.com/)
 * [Генератор текста рыбы](http://www.lipsum.com/)
 * [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
-* [css arrow please](http://www.cssarrowplease.com/)
-
+* [css arrow please](http://www.cssarrowplease.com/) - треугольник с обводкой
+* 
 ## Vertical Alignment
 
 * [Vertical Alignment Page](https://codepen.io/MOgorodnik/pen/mBpOxm)
