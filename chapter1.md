@@ -18,7 +18,6 @@
 * [Специальные символы HTML](https://htmlweb.ru/html/symbols.php)
 * [Быстрая вставка изображений на страницу](https://placekitten.com/)
 * [htmlshell.com - помогает выбрать начальные элементы html-страницы](/htmlshell.com - помогает выбрать начальные элементы html-страницы "http://htmlshell.com/")
-* [Генератор текста рыбы](https://www.lipsum.com/)
 
 ## Tutorials
 
@@ -50,7 +49,15 @@
 
 ## Графика для web - изображения, иконки
 
+### Растровая графика
 
+* Иконки от [flaticons.net ](https://flaticons.net/ "flaticons.net"), от [icons8](https://icons8.com/)
+* Картинки от [pixabay](https://pixabay.com/)
+
+### Векторная графика - иконки
+
+* От Google 
+* От FontAwesome
 
 ## Image optimization
 
@@ -77,7 +84,12 @@
 
 ## Generators
 
-[http://css3generator.com/](http://css3generator.com/)
+* [css3generator](http://css3generator.com/) - генератор CSS3 свойств/эффектов
+* [Генератор Favicon](https://realfavicongenerator.net/)
+* [Быстрая вставка изображений на страницу](https://placekitten.com/)
+* [Генератор текста рыбы](http://www.lipsum.com/)
+* [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
+* [css arrow please](http://www.cssarrowplease.com/)
 
 ## Vertical Alignment
 
