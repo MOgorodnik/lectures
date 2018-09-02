@@ -91,10 +91,9 @@
 * [Генератор текста рыбы](http://www.lipsum.com/)
 * [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
 * [css arrow please](http://www.cssarrowplease.com/) - треугольник с обводкой
-* 
-## Vertical Alignment
-
+* ## Vertical Alignment
 * [Vertical Alignment Page](https://codepen.io/MOgorodnik/pen/mBpOxm)
+
 * [Vertical Alignment Elements 01](https://codepen.io/MOgorodnik/pen/gGoLZo)
 * [Vertical Alignment Elements 02](https://codepen.io/MOgorodnik/pen/gGogGB)
 * [Alignment elements\[inline, float, flex\]](https://codepen.io/MOgorodnik/pen/qPprqM)
@@ -105,6 +104,13 @@
 
 * [https://codepen.io/MOgorodnik/pen/aLGERw](https://codepen.io/MOgorodnik/pen/aLGERw)
 * [Ex. hamburger](https://codepen.io/MOgorodnik/pen/xXBPog)
+
+## CSS3 animation
+
+* [animate.css](https://daneden.github.io/animate.css/)
+* [Woah.css](http://www.joerezendes.com/projects/Woah.css/)
+* [Hover.css](https://ianlunn.github.io/Hover/)
+* [Effeckt.css](https://h5bp.github.io/Effeckt.css/)
 
 
 
