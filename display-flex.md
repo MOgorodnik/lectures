@@ -10,6 +10,8 @@
 
 [Flexbox Properties Demonstration](https://codepen.io/justd/pen/yydezN/) - playground.
 
+[http://tpverstak.ru/flex-cheatsheet/](http://tpverstak.ru/flex-cheatsheet/)
+
 ---
 
 #### Известные баги и их устранение.
