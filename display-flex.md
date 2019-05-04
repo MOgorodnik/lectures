@@ -12,6 +12,8 @@
 
 [http://tpverstak.ru/flex-cheatsheet/](http://tpverstak.ru/flex-cheatsheet/)
 
+[https://flexboxfroggy.com/\#uk](https://flexboxfroggy.com/#uk)
+
 ---
 
 #### Известные баги и их устранение.
