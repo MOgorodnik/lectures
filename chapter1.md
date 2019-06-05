@@ -99,6 +99,7 @@
 * [Vertical Alignment Elements 01](https://codepen.io/MOgorodnik/pen/gGoLZo)
 
 * [Vertical Alignment Elements 02](https://codepen.io/MOgorodnik/pen/gGogGB)
+
 * [Alignment elements\[inline, float, flex\]](https://codepen.io/MOgorodnik/pen/qPprqM)
 * [Resizeble text above image](https://codepen.io/MOgorodnik/pen/RLxVdZ)
 * [Все способы верт выравнивания](https://habrahabr.ru/company/netcracker/blog/277433/) Хабр
