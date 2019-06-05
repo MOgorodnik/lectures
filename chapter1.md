@@ -28,6 +28,8 @@
 
 [https://wsd.events/2016/11/26/pres/heads-up/\#](https://wsd.events/2016/11/26/pres/heads-up/#)
 
+[Complete List of HTML Meta Tags](https://gist.github.com/lancejpollard/1978404)
+
 ## Reset
 
 * [normalize.css](http://necolas.github.io/normalize.css/)
@@ -95,6 +97,7 @@
 * [Vertical Alignment Page](https://codepen.io/MOgorodnik/pen/mBpOxm)
 
 * [Vertical Alignment Elements 01](https://codepen.io/MOgorodnik/pen/gGoLZo)
+
 * [Vertical Alignment Elements 02](https://codepen.io/MOgorodnik/pen/gGogGB)
 * [Alignment elements\[inline, float, flex\]](https://codepen.io/MOgorodnik/pen/qPprqM)
 * [Resizeble text above image](https://codepen.io/MOgorodnik/pen/RLxVdZ)
